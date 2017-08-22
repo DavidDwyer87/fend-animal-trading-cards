@@ -1,0 +1,52 @@
+/* add your CSS here */
+
+.border-design
+{
+	border-style:solid;
+	border-color: grey;
+	border-width: 1px;
+
+	width: 300px;
+	padding: 10px;
+}
+
+.border-design ul
+{
+	padding: 0px;
+}
+
+.border-design img
+{
+	padding-bottom: 10px;
+}
+
+.main-div
+{
+	margin:auto;
+
+	box-shadow:10px 10px 5px grey;	
+	width: 320px;
+	height: 100%;
+	padding:2%;
+}
+
+.animal-pic
+{
+	width:300px;
+	height:200px;
+}
+
+.fact
+{
+	font-style: italic;
+}
+
+li span
+{
+	font-weight: bold;
+}
+
+ul
+{
+	list-style: none;
+}
